@@ -11,5 +11,5 @@
 - Unzip to working directory;
 - IDEA : File --> New --> Project from existing sources;
 - In import master select project directory;
-- Choose "Import project from external model" --> Maven --> Finish;
+- Choose "Import project from external model" --> Maven --> Finish.
 ### Enjoy! :+1:
