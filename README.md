@@ -7,9 +7,7 @@
 - Spacebar - fly/jump;
 - R - restart.
 ## How to launch :question:
-- Download code zip archive;
-- Unzip to working directory;
-- IDEA : File --> New --> Project from existing sources;
-- In import master select project directory;
-- Choose "Import project from external model" --> Maven --> Finish.
+- IntelliJ IDEA (Welcome window) --> Projects;
+- Get from VCS;
+- Insert repository URL --> Clone.
 ### Enjoy! :+1:
